@@ -1,4 +1,3 @@
-
 Toyota
-camry
+Camry blue
 
